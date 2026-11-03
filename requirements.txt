@@ -8,3 +8,5 @@ faiss-cpu
 numpy
 fastapi
 uvicorn[standard]
+python_multipart
+python-dotenv
